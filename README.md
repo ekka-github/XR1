@@ -10,3 +10,6 @@ Our second application Furnize is a AR application, where you can test to see if
 Demos:
 - Arrowstorm (VR) https://www.youtube.com/watch?v=CPuSAkRkVno
 - Furnize (AR) https://www.youtube.com/watch?v=rVXjMYGYA9E
+
+An inspiration we've used for Arrowstorm is linked here:
+- https://www.youtube.com/watch?v=XHkAl-fVa1A&t=386s
