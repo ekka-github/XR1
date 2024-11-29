@@ -1,3 +1,6 @@
+# Group 1 - Turbo Torben
+Christian (316456) & Nicklas (316453)
+
 This XR project contains two projects, Arrowstorm (VR) and Furnize (AR)
 
 Our VR game is a FPS game with a Bow, where the player has to hit targets at a long distance to increase their score.
